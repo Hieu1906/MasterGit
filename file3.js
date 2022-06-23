@@ -1,2 +1,3 @@
 let c0=1;
-letc1=1;
+let c1=1;
+let c2=5;
